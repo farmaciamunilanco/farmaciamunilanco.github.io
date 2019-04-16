@@ -4,9 +4,9 @@
 # Site settings
 title: Spectral
 description: |
-  Farmacia Comunitaria de Lanco y Malalhue 
+
   Calle Yungay #294 esquina Unión, Lanco 
-  DESAM Lanco e I. Municipalidad de Lanco
+
 owner: Farmacia Municipal Lanco # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: farmacia.salud@munilanco.cl
